@@ -13,4 +13,6 @@ int main() {
     // students = students / 2; // students /= 2; //students = students % 2 (% symbol - modular division, returns the reminder of the equation)
 
     std::cout << students;
+
+    return 0;
 }
