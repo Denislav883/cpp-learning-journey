@@ -8,7 +8,7 @@ int main() {
 
     z = std::max(x, y); // returns the greater number - y
     z = std::min(x, y); // returns the smaller number - x
-    z = pow(2, 5); // returns the powered number - 25
+    z = pow(5, 2); // returns the powered number - 25
     z = sqrt(4); // returns the square root of number - 2
     z = abs(-4); // returns the absolute value of number - 4
     z = round(x); // returns the rounded number - 4
