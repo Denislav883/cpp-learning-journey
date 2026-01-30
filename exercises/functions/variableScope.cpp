@@ -10,7 +10,7 @@ int main() {
 
     cout << myNum << "\n";
     printNum();
-    cout << ::myNum << "\n"; // :: this will ignore the local scope and will print myNum from the global scope
+    cout << ::myNum << "\n"; // :: this will ignore the local scope and will print myNum, declared in the global scope
     
     return 0;
 }
